@@ -1,0 +1,16 @@
+{
+  "name": "js_assessment",
+  "version": "1.0.0",
+  "description": "This package is for the Javascript Assessment  ",
+  "main": "index.js",
+  "scripts": {
+    "startgame": "node game.js"
+  },
+  "author": "Jaline Foo",
+  "license": "ISC",
+  "dependencies": {
+    "clear-screen": "^1.0.0",
+    "prompt-sync": "^4.2.0",
+    "terminal-kit": "^2.1.6"
+  }
+}
