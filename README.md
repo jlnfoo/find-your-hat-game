@@ -1,14 +1,5 @@
-Find your hat game
+Find your hat game - COdecademy assessment 
 
-What did you like about this project?
-
-- Had quite alot of errors initially but when they were all debugged and the game could finally show up in the terminal, it was a rewarding feeling.
-- Also enjoyed customising the game
-
-What did you struggle with in this project?
-
-- Not knowing where certain functions or methods should go in the codes, realising i need more revision
-
-What would make your experience with this assessment better?
-
-- None I could think of
+Terminal game using JS that allows player to move around using 'U', 'D', 'L', 'R' keys
+Game restarts when player goes out of bound
+Output changes colors when player loses or wins
